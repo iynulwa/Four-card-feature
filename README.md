@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/iynulwa/Four-card-feature)
+- Live Site URL: [Live Site](https://iynulwa.github.io/Four-card-feature/)
 
 ## My process
 

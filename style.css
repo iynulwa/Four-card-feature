@@ -148,11 +148,11 @@ h2 {
 @media screen and (min-width: 43rem) {
 
   .card-grid {
-    margin: 1rem 1rem;
+    margin: 2.5rem 1rem;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr;
-    gap: 1rem;
+    gap: 2rem;
   }
 
   .cards {
